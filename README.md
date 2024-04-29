@@ -3,3 +3,5 @@
 + I converted Semantic segmentations to object detection(bounding box annotations)
 + I used python OpenCV library for the main convertion task
 + I used the images from the dataset _**RescueNet** by **Rahnemoonfar** et.el._ for my task
+
+## The bounding boxes were drawn considering the objects minimum area so that the bounding boxes don't overlap much
